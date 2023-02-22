@@ -1,4 +1,4 @@
-const  [Labial,Rimmel,Rubor,Sombra] = require("./info/products");
-const { ProductManager } = require("./class/ProductManager");
+const Server = require("./src/models/server");
+const server = new Server();
 
-const products = new ProductManager ("./data/archivo.js");
+server.start();

@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Labial",
+      "description": "Pinta labios",
+      "price": 100,
+      "thumbnail": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F21%2F2021%2F09%2F30%2FRuby-Woo-Open.png",
+      "code": 1,
+      "stock": 110
+    },
+    {
+      "id": 2,
+      "title": "Remera",
+      "description": "Ropa parte superior",
+      "price": 500,
+      "thumbnail": "https://i.pinimg.com/originals/5e/9d/eb/5e9deb285da27018429ff98ddebe9a5c.jpg",
+      "code": 105,
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "title": "Rimel",
+      "description": "Máscara de pestañas",
+      "price": 400,
+      "thumbnail": "https://www.dior.com/couture/var/dior/storage/images/14206490/59-esl-ES/mascaras6_1440_1200.jpg",
+      "code": 5041,
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "title": "Delineador",
+      "description": "Azul",
+      "price": 110,
+      "thumbnail": "https://i.blogs.es/16c4c0/delineador-ojos-azul/450_1000.jpeg",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 5,
+      "title": "Rubor",
+      "description": "Rubor rojizo",
+      "price": 50,
+      "thumbnail": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dwe4e1ceca/assets/Y0127000/Y0127000_C012700001_E01_GHC.jpg?sw=715&sh=773&sm=fit&imwidth=300",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 6,
+      "title": "Base",
+      "description": "Base tono 5",
+      "price": 50,
+      "thumbnail": "https://dior.vtexassets.com/arquivos/ids/1131473/Name_1732.jpg?v=638115669034470000",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 7,
+      "title": "Sombra",
+      "description": "Sombra multicolor",
+      "price": 50,
+      "thumbnail": "https://www.dior.com/couture/var/dior/storage/images/14208177/51-esl-ES/sombras-de-ojos6_1440_1200.jpg",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 8,
+      "title": "Pinta Cejas",
+      "description": "Color 3 de Cejas",
+      "price": 50,
+      "thumbnail": "https://www.dior.com/couture/var/dior/storage/images/horizon/products/fp-pcd/folder-makeup/folder-eyes/y0996206-diorshow-kabuki-brow-styler/1-cover-claim-title-image-text/24284158-1-int-EN/1-cover-claim-title-image-text_1440_1200.jpg",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 9,
+      "title": "Delineador de Labios",
+      "description": "Delineador labial rojo",
+      "price": 50,
+      "thumbnail": "https://eco-beauty.dior.com/dw/image/v2/BDGF_PRD/on/demandware.static/-/Sites-master_dior/default/dw3d335722/assets/Y0179009/Y0179009_C017900520_E01_ZHC.jpg",
+      "code": 1545,
+      "stock": 4
+    },
+    {
+      "id": 10,
+      "title": "Iluminador",
+      "description": "Iluminador efecto lienzo",
+      "price": 50,
+      "thumbnail": "https://dior.vtexassets.com/arquivos/ids/1165307/Name_1834.jpg?v=638115734147500000",
+      "code": 1545,
+      "stock": 4
+    }
+  ]
