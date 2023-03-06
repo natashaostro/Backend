@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Servidor con express",
     "keywords": [],
-    "author": "Nahuel Gómez",
+    "author": "Natasha Ostropolsky",
     "license": "ISC",
     "main": "index.js",
     "scripts": {
